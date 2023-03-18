@@ -1,0 +1,26 @@
+{
+  "name": "walkaround",
+  "version": "1.0.0",
+  "description": "Demo website for walkaround.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabittowong/walkaround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabittowong/walkaround/issues"
+  },
+  "homepage": "https://github.com/rabittowong/walkaround#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

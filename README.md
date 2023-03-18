@@ -1,3 +1,3 @@
-# Comp4988 Project
+# Walkaround
 
-Demo website for Comp4988 presentation.
+Demo website for walkaround.
